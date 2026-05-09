@@ -1,0 +1,45 @@
+SHIPWRECK COVE LIGHTHOUSE
+=========================
+Watch log, kept by the bosun on the night of the new moon.
+
+The shore-keeper's lamp flickered out a pattern. I marked each one.
+Time is seconds from first sight; "flash" is how long the lamp held.
+
+   t=0001    flash 3s
+   t=0005    flash 1s
+   t=0007    flash 1s
+   t=0009    flash 1s
+   t=0013    flash 1s
+   t=0017    flash 1s
+   t=0019    flash 3s
+   t=0023    flash 3s
+   t=0029    flash 1s
+   t=0031    flash 3s
+   t=0037    flash 1s
+   t=0039    flash 3s
+   t=0043    flash 1s
+   t=0047    flash 1s
+   t=0055    flash 3s
+   t=0061    flash 1s
+   t=0063    flash 1s
+   t=0065    flash 1s
+   t=0067    flash 1s
+   t=0071    flash 1s
+   t=0079    flash 1s
+   t=0081    flash 3s
+   t=0085    flash 1s
+   t=0089    flash 3s
+   t=0093    flash 3s
+   t=0097    flash 3s
+   t=0103    flash 3s
+   t=0107    flash 1s
+   t=0109    flash 3s
+   t=0113    flash 1s
+   t=0117    flash 3s
+   t=0121    flash 1s
+   t=0123    flash 3s
+   t=0129    flash 1s
+   t=0131    flash 1s
+   t=0133    flash 1s
+
+End of watch. The cove was silent again.
